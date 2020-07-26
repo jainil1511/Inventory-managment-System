@@ -1,0 +1,10 @@
+Inventory Managment System Project
+
+In  This Project We can Manage all the products.
+also manage The Diffrent category of products.
+We can manage the Stock Details Using this Project.
+We can also Manage Supplier Details So we can Easily Track the Details of Suppliers.
+manage the Purchase Invoice Details and View all the Details.
+when The Customer can buy Products so we can add the details In Sales
+We can scan Using Barcode scanner.So they can Display all the Information Of Product..
+

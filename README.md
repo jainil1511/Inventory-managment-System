@@ -3,7 +3,8 @@
 ## Description
 
   Create a Window Application for Inventory(Stock) Managment System.
-  usinng visual Studio 2019 As a Code Editor and Sql Server 2012 for Database.
+  
+  use visual Studio 2019 and Sql Server 2012 for Database.
 
 ### Features.
    - We can Manage all the products and theire Detais And Price.

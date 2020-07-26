@@ -21,3 +21,27 @@ C:\Users\Jainil\Desktop\ALL important\DotNet Project\ims\ims\obj\Debug\ims.cspro
 C:\Users\Jainil\Desktop\ALL important\DotNet Project\ims\ims\obj\Debug\ims.exe
 C:\Users\Jainil\Desktop\ALL important\DotNet Project\ims\ims\obj\Debug\ims.pdb
 C:\Users\Jainil\Desktop\ALL important\DotNet Project\ims\ims\obj\Debug\ims.csprojResolveAssemblyReference.cache
+G:\backup\Inventory-managment-system\ims\bin\Debug\ims.exe.config
+G:\backup\Inventory-managment-system\ims\bin\Debug\ims.exe
+G:\backup\Inventory-managment-system\ims\bin\Debug\ims.pdb
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.csprojAssemblyReference.cache
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Categories.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.HomeScreen.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.login.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.MDI.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.ProductPricining.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Products.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Properties.Resources.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.PurchaseInvoice.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.PurchaseInvoiceDetails.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Sales.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Sample.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Sample2.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Settings.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Stocks.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Supplier.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.Users.resources
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.csproj.GenerateResource.cache
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.csproj.CoreCompileInputs.cache
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.exe
+G:\backup\Inventory-managment-system\ims\obj\Debug\ims.pdb

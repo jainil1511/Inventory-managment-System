@@ -5,6 +5,7 @@
   Create a Window Application for Inventory(Stock) Managment System.
   
   use visual Studio 2019 and Sql Server 2012 for Database.
+  Amazing
 
 ### Features.
    - We can Manage all the products and theire Detais And Price.
@@ -13,6 +14,7 @@
    - We can also Manage Supplier Details So we can Easily Track the Details of Suppliers.
    - manage the Purchase Invoice Details and View all the Details.
    - When The Customer can buy Products so we can add the details In Sales We can scan Using Barcode scanner.So they can Display all the Information Of Product.
+   
     
 ### Images
 

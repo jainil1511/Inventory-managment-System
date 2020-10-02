@@ -1,4 +1,4 @@
-# Inventory-managment-System
+# Inventory-managment-System is an amazing project
 
 ## Description
 
